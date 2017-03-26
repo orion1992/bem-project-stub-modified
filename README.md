@@ -2,7 +2,7 @@
 Original project stub:
 https://github.com/bem/project-stub
 
-## BEFORE WORK BEGIN YOU MUST DO THIS:
+## BEFORE WORK START YOU MUST DO THIS:
 
 <pre>npm install --save-dev</pre>
 <pre>gulp prepare</pre>
